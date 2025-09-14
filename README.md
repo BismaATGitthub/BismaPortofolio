@@ -168,4 +168,4 @@
     © 2025 Bisma Toriq. All rights reserved.
   </footer>
 </body>
-</html>This for my website portofolio
+</html>
